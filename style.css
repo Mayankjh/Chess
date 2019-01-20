@@ -1,0 +1,18 @@
+.board {
+    width: 600px;
+    margin: auto;
+}
+.black-3c85d {
+    background-color: #4a148c;
+    color: #f1f1f1;
+}
+
+.info {
+    width: 400px;
+    margin: auto;
+}
+
+.move-history {
+    max-height: 100px;
+    overflow-y: scroll;
+}
